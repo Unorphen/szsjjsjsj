@@ -1,5 +1,5 @@
 {
-  "name": "mal-scraper",
+  "name": "AnimeSearchTh",
   "version": "2.11.4",
   "description": "Scrap everything you can from MyAnimeList.net",
   "main": "src/index.js",
